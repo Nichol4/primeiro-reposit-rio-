@@ -1,4 +1,4 @@
-# primeiro-reposit-rio-
+# primeiro-repositorio
 
 Para corpiar o codigo em HTML
 ```
